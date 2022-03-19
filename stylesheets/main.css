@@ -1,0 +1,67 @@
+#header1 {
+  background-color: brown;
+  color: white;
+  font-family: arial;
+  font-size: 200%;
+  padding-top: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+}
+
+nav {
+  background-color: darkslategrey;
+  padding-top: 5px;
+  padding-right: 5px;
+  padding-bottom: 10px;
+  padding-left: 5px;
+}
+
+.link {
+  color: white;
+  float: right;
+  font-family: arial;
+  font-size: 100%;
+}
+
+h1 {
+  font-family: arial;
+  font-weight: bold;
+   margin-right: 10px;
+   margin-left: 10px;
+   margin-top: 10px;
+   margin-bottom: 10px;
+}
+
+article {
+  float: left;
+  width: 700px;
+  margin-right: 20px;
+  margin-left: 20px;
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+
+p {
+  font-family: arial;
+  margin-right: 10px;
+  margin-left: 10px;
+  margin-bottom: 10px;
+}
+
+aside {
+  float: right;
+  width: 200px;
+  margin-right: 20px;
+  margin-left: 20px;
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+
+footer {
+  background-color: darkslategray;
+  color: white;
+  clear: left;
+  font-family: arial;
+  padding: 15px;
+}
